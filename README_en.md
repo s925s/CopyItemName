@@ -6,10 +6,10 @@
 
 ### Minecraft Item Name Copy Mod
 
-[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.minecraft.net/)
-[![Fabric](https://img.shields.io/badge/Fabric-Mod_Loader-DBD0B4?style=for-the-badge)](https://fabricmc.net/)
-[![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/)
-[![License](https://img.shields.io/badge/License-PolyForm_NC-blue?style=for-the-badge)](LICENSE)
+[![Java](https://img.shields.io/badge/Java-21-ED8B00?logo=openjdk&logoColor=white)](https://openjdk.org/)
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-62B47A?logo=minecraft&logoColor=white)](https://www.minecraft.net/)
+[![Fabric](https://img.shields.io/badge/Fabric-Mod-DBD0B4)](https://fabricmc.net/)
+[![License](https://img.shields.io/badge/License-PolyForm_NC-blue)](LICENSE)
 
 **Middle-click any item in your inventory to copy its English name or ID to clipboard.**
 
